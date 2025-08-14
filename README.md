@@ -27,7 +27,7 @@ puzzle/
 
 2. **Run:**
    ```bash
-   java -cp src Packing
+   java -cp src Packing input.txt output.txt
    ```
 
 3. **Input format:**
